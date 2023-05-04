@@ -1,7 +1,5 @@
 # BERT Toxic Comments Classification at E-Commerce Online Shop
 
-# BERT Toxic Comments Classification at E-Commerce Online Shop
-
 ### Project Description
 
 **The project goal is to perform binary text classification using the BERT model.**
