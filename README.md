@@ -1,4 +1,4 @@
-# Toxic Comments Classification at E-Commerce Online Shop
+# BERT Toxic Comments Classification at E-Commerce Online Shop
 
 ## Project Description
 
