@@ -1,4 +1,4 @@
-# NLP_EngToxicTweetsClassification
+# Toxic Comments Classification at E-Commerce Online Shop
 
 ## Project Description
 
