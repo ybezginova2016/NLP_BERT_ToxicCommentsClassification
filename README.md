@@ -1,6 +1,6 @@
 # BERT Toxic Comments Classification at E-Commerce Online Shop
 
-## Project Description
+### Project Description
 
 **The project goal is to perform binary text classification using the BERT model.**
 
@@ -10,17 +10,23 @@ Train a model to classify comments into positive and negative categories. You ha
 
 Build a model with an F1-score of at least 0.75.
 
-## Methodology
+### Methodology
 
 1. Load and prepare the data.
 2. Train different models.
 3. Draw conclusions.
 
-## ML models
+### ML models
 
 * *Logistic Regression*
 * *CatBoost, LightGBM Classifiers*
 * **BERT (Bidirectional Encoder Representations from Transformers)** is a Transformer pre-trained on masked language model and next sentence prediction tasks. This approach showed state-of-the-art results on a wide range of NLP tasks in English.
+
+### Variables Description
+The ```text``` column contains the comment text, and ```toxic``` columns is the target variable.
+
+#### Data can be found [here](https://drive.google.com/file/d/1LKtXW3ea-VAzyszYqc49I8WCkHS1VtdL/view?usp=sharing).
+
 
 **Best wishes, Yulia**
 
